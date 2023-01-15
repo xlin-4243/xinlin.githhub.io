@@ -28,10 +28,7 @@
       ]
    },
    "interests":[
-      {"name": "Gaming", 
-       "name": "Gym", 
-       "name": "Music", 
-       "name": "Cooking and/or Baking"}
+      {"name": "Gaming", "Gym", "Music", "Cooking and/or Baking"}
       ],
    
    "skills":[
