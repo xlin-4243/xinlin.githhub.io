@@ -27,7 +27,12 @@
          }
       ]
    },
-   "interests": {"Gaming, Gym, Music, Cooking and/or Baking"},
+   "interests":[
+      {"name": "Gaming", 
+       "name": "Gym", 
+       "name": "Music", 
+       "name": "Cooking and/or Baking"}
+      ],
    
    "skills":[
       {
