@@ -36,8 +36,10 @@
             "Java",
             "HTML"
          ]
-      },
-      "education":[
+      
+      }
+      ],
+      "education": [
          {
             "institution":"University of Hawaii, Honolulu, HI",
             "area":"Finance (expected Spring, 2024)",
@@ -57,7 +59,10 @@
                "Advises, tests, and teaches students in the academic subject of ICS101. As well as grade materials submitted by students.",
                "Presents and reinforces learning concepts and skills within ICS101.",
                "Evaluating and documenting student’s progress, and prep for weekly staff meetings."
-            ]"references":[
+            ]
+         }
+         ],
+            "references":[
                {
                   "name":"Available upon request"
                }
